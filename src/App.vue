@@ -10,7 +10,7 @@
           app
         </h1>
       </div>
-      <div class="col"><a href="">Colonna</a></div>
+      <div class="col"><a href="">Colonna <font-awesome-icon :icon="['fas', 'user-secret']" /> </a></div>
       <div class="col"><a href="">Colonna</a></div>
       <div class="col"><a href="">Colonna</a></div>
       <div class="col"><a href="">Colonna</a></div>
